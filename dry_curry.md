@@ -1,7 +1,7 @@
 # ドライカレー
 <img src="https://user-images.githubusercontent.com/2450046/213905955-866cd716-e86f-4c8e-b7d0-86fb4678a824.jpeg" width="320px">
 
-## 用意するもの(3人前)
+## 用意するもの(4人前)
 素材
 - 牛豚挽肉(400g)
 - 玉ねぎ（3個）
